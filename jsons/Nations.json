@@ -39,7 +39,7 @@
 			"[+2] Movement <for [Embarked] units>",
 			"[+25]% Strength <for [Military] units>",
 			"Damage is ignored when determining unit Strength <for [non-air] units>",
-			"May choose [2] additional belief(s) of any type when [founding] a religion",
+			"May choose [1] additional belief(s) of any type when [founding] a religion",
 			"Gain a free [Harbor] [in all coastal cities]"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
